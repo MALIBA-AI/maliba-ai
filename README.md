@@ -1,5 +1,5 @@
 ```bash
-    pip install git+https://github.com/CAYTU/caytu_ai.git
+    pip install git+https://github.com/CAYTU/maliba_ai.git
 ```
 
 ```python
